@@ -1,0 +1,19 @@
+/* Smartphones */
+@media (max-device-width:767px) {
+  .container, section, aside {
+    width: 100%;
+  }
+  .container {
+    padding: 0 10px;
+  }
+  header.main-header {
+    padding: 15px 10px;
+  }
+  header img {
+    width: 70%;
+  }
+  h1 {
+    font-size: 2rem;
+    line-height: 1.1;
+  }
+}
